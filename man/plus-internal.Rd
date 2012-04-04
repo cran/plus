@@ -21,7 +21,7 @@ plus.penalty(m,a=0)
 plus.recip(Q, eps=1e-15)
 plus.knots(t=0,m=0)
 }
-\author{Ofer Melnik, Cun-Hui Zhang}
+\author{Cun-Hui Zhang and Ofer Melnik}
 \details{
   These are not to be called by the user.
 }

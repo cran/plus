@@ -102,14 +102,13 @@ Some significant components of the object are:
 \item{singular.Q}{TRUE if PLUS is forced to stop when a matrix is not invertible.}  	
 }
 \details{
-PLUS is described in detail in Zhang (2007). It computes a complete path of crititcal points of a 
+PLUS is described in detail in Zhang (2010). It computes a complete path of crititcal points of a 
 penalised squared loss emcompassing from zero for infinite penalty to a lease squares fit for zero 
 penalty, including possible multiple local minima for each penalty level. 
 }
 \references{
-Zhang, C.-H. (2007). Penalized linear unbiased selection. Technical Report No. 2007-003. 
-Department of Statistics, Rutgers University.
-}
+Zhang, C.-H. (2010). Nearly unbiased variable selection under minimax concave penalty. Annals of Statistics 38, 894-942.}
+
 \author{Cun-Hui Zhang and Ofer Melnik}
 \seealso{
 print, plot, and predict methods

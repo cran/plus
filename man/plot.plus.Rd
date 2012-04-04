@@ -31,8 +31,7 @@ lam when xvar is set as "lam".
 }
 \value{NULL}
 \references{
-Zhang, C.-H. (2007). Penalized linear unbiased selection. Technical Report No. 2007-003. 
-Department of Statistics, Rutgers University.}
+Zhang, C.-H. (2010). Nearly unbiased variable selection under minimax concave penalty. Annals of Statistics 38, 894-942.}
 
 \author{Cun-Hui Zhang and Ofer Melnik}
 \examples{

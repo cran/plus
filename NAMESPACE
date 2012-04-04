@@ -1,0 +1,5 @@
+export(plus)
+import(grDevices, graphics, stats, utils)
+S3method(print, plus)
+S3method(predict, plus)
+S3method(plot, plus)
