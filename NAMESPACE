@@ -1,5 +1,16 @@
-export(plus)
-import(grDevices, graphics, stats, utils)
+# Export all names
+exportPattern(".")
+
+# Import all packages listed as Imports or Depends
+import(
+  grDevices,
+  graphics,
+  stats,
+  utils
+)
+
+# Register S3 methods
 S3method(print, plus)
+S3method(coef, plus)
 S3method(predict, plus)
 S3method(plot, plus)

@@ -36,7 +36,6 @@ A list containing the following items:
 }
 \references{
 Zhang, C.-H. (2010). Nearly unbiased variable selection under minimax concave penalty. Annals of Statistics 38, 894-942.}
-
 \seealso{print, plot, plus}
 \author{Cun-Hui Zhang and Ofer Melnik}
 \examples{
